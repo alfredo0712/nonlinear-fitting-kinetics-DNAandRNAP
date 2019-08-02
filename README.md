@@ -15,7 +15,7 @@ matplotlib = 1.5.1
 
 
 <p align="center">
-<img src="https://github.com/Alro10/nonlinear-fitting-kinectics-DNAandRNAP/blob/master/fitting.png" alt="alt text" width="80%" height="80%">
+<img src="https://github.com/alfredo0712/nonlinear-fitting-kinetics-DNAandRNAP/blob/master/wt_lowsalt_rx1_plotOPEN.png" alt="alt text" width="80%" height="80%">
 </p>
 
 ## User guide 
